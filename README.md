@@ -17,7 +17,7 @@ Image from a relative path in your repository:
 
 
 Using an HTML <img> tag (for more control):
-    <img src="DSC_MlFlow/pdf/img/01/1.Objectivos_de_MlOps.png" alt="Alt text for the image" width="500" height="300" align="center">
+    <img src="pdf/img/01/1.Objectivos_de_MlOps.png" alt="Alt text for the image" width="500" height="300" align="center">
 
     <img src="https://example.com/my-awesome-graphic.gif" alt="My Awesome Graphic" width="600">
 
