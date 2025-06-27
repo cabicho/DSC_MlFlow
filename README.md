@@ -7,9 +7,9 @@ Using a relative or absolute URL (from the web or a local path):
     ![Alt text for the image]("pdf/img/01/1.Objectivos_de_MlOps.png" "Optional title for the image") 
 
     ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Octocat")
-    ![GitHub Logo]("pdf/img/01/1.Objectivos_de_MlOps.png" "GitHub Octocat")
-    ![GitHub Logo]('pdf/img/01/1.Objectivos_de_MlOps.png' "GitHub Octocat")
-    ![GitHub Logo]("pdf/img/01/1.Objectivos_de_MlOps.png" "GitHub Octocat")
+![GitHub Logo](pdf/img/01/1.Objectivos_de_MlOps.png "GitHub Octocat")
+![GitHub Logo]('pdf/img/01/1.Objectivos_de_MlOps.png' "GitHub Octocat")
+![GitHub Logo]("pdf/img/01/1.Objectivos_de_MlOps.png" "GitHub Octocat")
 
 Image from a relative path in your repository:
     ![Screenshot of the application](pdf/img/01/1.Objectivos_de_MlOps.png)
