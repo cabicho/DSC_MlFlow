@@ -4,16 +4,16 @@
 
 Using a relative or absolute URL (from the web or a local path):
     ![Alt text for the image](image_url_or_path "Optional title for the image")
-    ![Alt text for the image]("pdf/img/01/1. Objectivos de MlOps.png" "Optional title for the image") 
+    ![Alt text for the image]("pdf/img/01/1.Objectivos_de_MlOps.png" "Optional title for the image") 
 
     ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Octocat")
-    ![GitHub Logo]("pdf/img/01/'1. Objectivos de MlOps.png" "GitHub Octocat")
-    ![GitHub Logo]('pdf/img/01/1. Objectivos de MlOps.png' "GitHub Octocat")
-    ![GitHub Logo]("pdf/img/01/1. Objectivos de MlOps.png" "GitHub Octocat")
+    ![GitHub Logo]("pdf/img/01/1.Objectivos_de_MlOps.png" "GitHub Octocat")
+    ![GitHub Logo]('pdf/img/01/1.Objectivos_de_MlOps.png' "GitHub Octocat")
+    ![GitHub Logo]("pdf/img/01/1.Objectivos_de_MlOps.png" "GitHub Octocat")
 
 Image from a relative path in your repository:
-    ![Screenshot of the application](assets/screenshot.png)
-    ![Screenshot of the application](pdf/img/01/1.Objectivos-de-MlOps.png)
+    ![Screenshot of the application](pdf/img/01/1.Objectivos_de_MlOps.png)
+    ![Screenshot of the application](pdf/img/01/1.Objectivos_de_MlOps.png)
 
 
 Using an HTML <img> tag (for more control):
@@ -26,7 +26,7 @@ Using an HTML <img> tag (for more control):
 how can i insert video in readme.md
     1. The "Clickable Thumbnail" Method (Most Common and Recommended)
     This is the most widely supported and effective method. You combine Markdown's image and link syntax to create a clickable image (a thumbnail) that, when clicked, opens the video in a new tab.
-    Concept: [![Alt text for image](path/to/thumbnail.jpg)](URL_of_your_video "Optional title for video link")Create or find a video thumbnail:
+    Concept: [![Alt text for image](pdf/img/01/1.Objectivos_de_MlOps.png)](URL_of_your_video "Optional title for video link")Create or find a video thumbnail:
 
 For YouTube/Vimeo: These platforms often provide default thumbnails. For YouTube, you can often get a thumbnail like this: https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg (replace VIDEO_ID with the actual ID from the YouTube URL). You can also try 0.jpg, 1.jpg, hqdefault.jpg, etc., for different qualities.
 
@@ -36,7 +36,7 @@ Construct the Markdown:
 Replace dQw4w9WgXcQ with your YouTube video ID.
 
 If using a local thumbnail:
-[![Project Demo](assets/demo_thumbnail.png)](https://example.com/path/to/your/video.mp4 "View Project Demo")
+[![Project Demo](pdf/img/01/1.Objectivos_de_MlOps.png)](https://example.com/path/to/your/video.mp4 "View Project Demo")
 Advantages:
 
 Works across almost all Markdown renderers.
@@ -46,7 +46,7 @@ Doesn't embed a heavy video directly, keeping your README.md lightweight.
 Provides a visual cue to the user.
     2. Using HTML <video> tag (Limited Support, but possible on GitHub)
     While Markdown doesn't natively support video tags, many Markdown renderers (including GitHub's) will parse raw HTML. This gives you more control, but it's not universally supported.
-        <video src="URL_of_your_video.mp4" controls width="640" height="360" poster="optional_thumbnail.jpg"></video>
+        <video src="URL_of_your_video.mp4" controls width="640" height="360" poster="pdf/img/01/1.Objectivos_de_MlOps.png"></video>
         <video src="assets/demo.mp4" controls width="700"></video>
         <video src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/YOUR_ASSET_ID/YOUR_VIDEO_GUID.mp4" controls width="600"></video>
 Explanation of attributes:
