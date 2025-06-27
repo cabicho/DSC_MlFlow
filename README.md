@@ -4,16 +4,16 @@
 
 Using a relative or absolute URL (from the web or a local path):
     ![Alt text for the image](image_url_or_path "Optional title for the image")
-    ![Alt text for the image]("DSC_MlFlow/pdf/img/01/1. Objectivos de MlOps.png" "Optional title for the image") 
+    ![Alt text for the image]("pdf/img/01/1. Objectivos de MlOps.png" "Optional title for the image") 
 
     ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Octocat")
-    ![GitHub Logo](DSC_MlFlow/pdf/img/01/'1. Objectivos de MlOps.png' "GitHub Octocat")
-    ![GitHub Logo]('DSC_MlFlow/pdf/img/01/1. Objectivos de MlOps.png' "GitHub Octocat")
-    ![GitHub Logo]("DSC_MlFlow/pdf/img/01/1. Objectivos de MlOps.png" "GitHub Octocat")
+    ![GitHub Logo]("pdf/img/01/'1. Objectivos de MlOps.png" "GitHub Octocat")
+    ![GitHub Logo]('pdf/img/01/1. Objectivos de MlOps.png' "GitHub Octocat")
+    ![GitHub Logo]("pdf/img/01/1. Objectivos de MlOps.png" "GitHub Octocat")
 
 Image from a relative path in your repository:
     ![Screenshot of the application](assets/screenshot.png)
-    ![Screenshot of the application](DSC_MlFlow/pdf/img/01/1.Objectivos-de-MlOps.png)
+    ![Screenshot of the application](pdf/img/01/1.Objectivos-de-MlOps.png)
 
 
 Using an HTML <img> tag (for more control):
